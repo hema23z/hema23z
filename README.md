@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Ibrahim Al Riyati
+💻 Computer Engineer | Crazy about everything built on 0s and 1s | Python Lover | Open Source Enthusiast  
 
-<!--
-**hema23z/hema23z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![C#](https://skillicons.dev/icons?i=cs)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![PHP](https://skillicons.dev/icons?i=php)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
